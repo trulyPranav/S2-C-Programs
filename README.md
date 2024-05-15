@@ -3,7 +3,7 @@
  1. [Hello World](Programs/helloWorld.md)
  2. [Sum of Digits](Programs/sumOfDigits.md)
  3. [Product of Digits](Programs/productOfDigits.md)
- 4. Greatest of Two Numbers
+ 4. [Greatest of Two Numbers](Programs/greatestOfTwoNum.md)
  5. [Odd or Even](Programs/even.md)
  6. Greatest of Three Numbers
  7. Leap Year
