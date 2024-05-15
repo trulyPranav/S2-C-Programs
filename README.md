@@ -5,7 +5,7 @@
  3. [Product of Digits](Programs/productOfDigits.md)
  4. [Greatest of Two Numbers](Programs/greatestOfTwoNum.md)
  5. [Odd or Even](Programs/even.md)
- 6. Greatest of Three Numbers
+ 6. [Greatest of Three Numbers](Programs/greatestOfThree_Num.md)
  7. Leap Year
  8. [Prime Number or Not](Programs/prime.md)
  9. [Armstrong's Number or Not](Programs/armstrong.md)
