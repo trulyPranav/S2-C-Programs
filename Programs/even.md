@@ -21,6 +21,6 @@
   ### Step 2: Read a number & Store it in variable num
   ### Step 3: IF(num%2==0)
   - print "number is even"
-  #### - ELSE 
+  #### ELSE 
   - print "Number is odd"
   ### Step 4: Stop
