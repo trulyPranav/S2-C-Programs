@@ -16,15 +16,15 @@ void main(){
   }
 }
 ```
-## Algorithm
+## Algorithm:
 
 ### Step 1: Start
 
 ### Step 2: Read two numbers a & b
 
-### Step 3: IF(a > b)
+### Step 3: if(a > b)
 - Display a is larger.
-- ELSE
+#### else
 - Display b is larger.
 
 ### Step 4: Stop
