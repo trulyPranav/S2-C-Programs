@@ -20,8 +20,8 @@ void main(){
 
 ### Step 2: Read a number & Store it in variable num.
 
-### Step 3: IF(num%2==0)
+### Step 3: if num%2==0
 - print "Number is Even"
-#### ELSE 
+#### else
 - print "Number is Odd"
 ### Step 4: Stop
