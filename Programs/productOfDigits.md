@@ -20,10 +20,10 @@ void main(){
 
 - product=0
 
-### Step 2: Read two numbers & store it in variable num1, num2.
+### Step 3: Read two numbers & store it in variable num1, num2.
 
-### Step 3: product = num1 * num2
+### Step 4: product = num1 * num2
 
-### Step 4: Display the Product
+### Step 5: Display the Product
 
-### Step 5: Stop
+### Step 6: Stop
