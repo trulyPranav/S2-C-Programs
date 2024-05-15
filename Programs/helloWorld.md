@@ -1,3 +1,4 @@
+## CODE:
 ```c
 #include <stdio.h>
 void main(){
@@ -5,13 +6,10 @@ void main(){
 }
 ```
 
-## Algorithm
+## Algorithm:
 
-### Step 1:
-- Start
+### Step 1: Start
 
-### Step 2:
-- Display "Hello World"
+### Step 2: Display "Hello World"
 
-### Step 3:
-- Stop
+### Step 3: Stop
