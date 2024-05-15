@@ -18,8 +18,8 @@ void main(){
 
 ### Step 2: Read two numbers & store it in variable num1, num2.
  - product=0
- 
-### Step 3: Product= num1 * num2
+
+### Step 3: product= num1 * num2
 
 ### Step 4: Display the Product
 
