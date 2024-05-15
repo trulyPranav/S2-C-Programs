@@ -9,7 +9,7 @@
  7. Leap Year
  8. [Prime Number or Not](Programs/prime.md)
  9. [Armstrong's Number or Not](Programs/armstrong.md)
- 10. Linear Search
+ 10. [Linear Search](Programs/linear_search.md)
  11. Bubble Sort
  12. Checking if elements of an Array are Prime or Not
  13. Matrix Addition
