@@ -1,16 +1,18 @@
-```c
-#include<stdio.h>
-void main()
-{
-  int a;
-  printf("Enter a number:");
-  scanf("%d",&a);
-  if(a%2==0){
-    printf("%d" "is even");
-  }
-  else{
-    printf("%d" "is odd");
-  }
-}
+  ##Code
 
-```
+  ```c
+ #include<stdio.h>
+  void main()
+  {
+    int num;
+    printf("Enter a number:");
+    scanf("%d",&num);
+    if(num%2==0){
+      printf("%d is even",num);
+    }
+    else{
+      printf("%d is odd",num);
+    }
+  }
+  ```
+  ##Algorithm
