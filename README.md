@@ -7,4 +7,4 @@
  5. [Odd or Even](Programs/even.md)
  6. Greatest of Two Numbers
  7. Prime Number or Not
- 8. 
+ 8. Armstrong's Number or Not
