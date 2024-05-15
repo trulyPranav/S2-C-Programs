@@ -16,7 +16,8 @@ void main(){
         originalNum/=10; // same as that of originalNum = originalNum/10
         digits++; // digits are increased by 1 => digits = digits + 1
     }
-    // The above process is nothing but we divide our number by 10 until it reaches zero, and for each division by 10, we increase digit count by 1
+    // The above process is nothing but we divide our number by 10 until it reaches zero,
+    // and for each division by 10, we increase digit count by 1
     
     originalNum = num;
 
