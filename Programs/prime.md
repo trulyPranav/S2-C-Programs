@@ -40,7 +40,7 @@ void main(){
 
 ### Step 5: else if n=2, Display 'A Prime Number'
 
-### Step 6: Else repeat the following from i=2 until i<=n/2 
+### Step 6: else repeat the following from i=2 until i<=n/2 
 - if num%i = 0, flag = 1, go to step 7
 - else increment i by 1
 
