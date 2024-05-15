@@ -9,17 +9,20 @@ void main(){
   scanf("%d%d", &num1, &num2);
 
   product= num1 * num2;
-  printf("Product of %d x %d =%d",num1 , num2, product);
+  printf("Product of %d x %d = %d", num1, num2, product);
 }
 ```
 ## Algorithm:
 
 ### Step 1: Start
 
-### Step 2: Read two numbers & store it in variable num1, num2.
- - product=0
+### Step 2: Initialize num1, num2 and product.
 
-### Step 3: product= num1 * num2
+- product=0
+
+### Step 2: Read two numbers & store it in variable num1, num2.
+
+### Step 3: product = num1 * num2
 
 ### Step 4: Display the Product
 
