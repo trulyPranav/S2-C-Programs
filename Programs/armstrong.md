@@ -56,3 +56,4 @@ void main(){
 - Display "An Armstrong Number"
 #### else
 - Display "Not an Armstrong Number"
+### Step 9: Stop
