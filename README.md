@@ -34,8 +34,8 @@
  23. String Palindrome
  24. Checking Consonants and Vowels in a String
 ### Functions
- 25. Linear Search using Functions
- 26. Bubble Sort using Functions
+ 25. [Linear Search using Functions](Programs/linearSearchUsingFunctions.md)
+ 26. [Bubble Sort using Functions](Programs/bubbleSortUsingFunctions.md)
 ### Recursive Functions
  27. Factorial of a Number
  28. Fibonacci Series
