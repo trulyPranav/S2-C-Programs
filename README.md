@@ -53,5 +53,5 @@
 
 ## Follow Developers:
 <pre>
-<a href="github.com/trulyPranav">Pranav</a>  <a href="github.com/ABHIRAM-AP">Abhiram A P</a>  <a href="github.com/Blackeye6941">Kevin</a>  <a href="github.com/AbhiramAnanthu">Abhiram A R</a>
+<a href="https://github.com/trulyPranav">Pranav</a>  <a href="https://github.com/ABHIRAM-AP">Abhiram A P</a>  <a href="https://github.com/Blackeye6941">Kevin</a>  <a href="https://github.com/AbhiramAnanthu">Abhiram A R</a>
 </pre>
