@@ -41,19 +41,28 @@ void main(){
 ## Algorithm:
 
 ### Step 1: Start
+
 ### Step 2: initialize num,originalNum,result,remainder,digits
+
 ### Step 3: Read the number
+
 ### Step 4: originalNum = num
+
 ### Step 5: initialize a while loop until originalNum is not equal to 0.
 - originalNum = originalNum/10
 - digits++
+
 ### Step 6: originalNum = num
+
 ### Step 7: initialize a while loop until originalNum is not equal to 0.
 - remainder = originalNum%10
 - result = result + (remainder raised to digits)
 - originalNum = originalNum/10
+
 ### Step 8: if result == num
 - Display "An Armstrong Number"
+
 #### else
 - Display "Not an Armstrong Number"
+
 ### Step 9: Stop
