@@ -19,7 +19,7 @@ void main(){
     // The above process is nothing but we divide our number by 10 until it reaches zero,
     // and for each division by 10, we increase digit count by 1
     
-    originalNum = num;
+    originalNum = num; // This reassigning is important!
 
     //Now we add the individual number raised to the digits, and is stored in the result variable
     while(originalNum!=0){

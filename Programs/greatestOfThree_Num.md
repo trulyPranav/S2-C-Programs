@@ -8,7 +8,7 @@ void main{
   scanf("%d%d%d", &a, &b, &c);//Reads three numbers
 
 
-//For comparing the numbers, we are using Logical AND (&&) operator
+// For comparing the numbers, we are using Logical AND (&&) operator
   if( (a>b) && (a>c) ) 
   {
     printf("%d is the greatest number.",a);
