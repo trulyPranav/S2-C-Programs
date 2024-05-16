@@ -1,7 +1,7 @@
 # S2 C-Programs List
 
 > [!NOTE]
-> Some Programs may not have algorithms. We try to provide algorithms for as much programs as we can.
+> Some Programs may not have algorithms. We try to provide algorithms for as much programs as we can. Those having an algorithm are provided with a ✅ at the end.
 
 ## Click to Navigate to the Respective Program
 
