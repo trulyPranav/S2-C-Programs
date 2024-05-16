@@ -37,8 +37,8 @@
  25. [Linear Search using Functions](Programs/linearSearchUsingFunctions.md)
  26. [Bubble Sort using Functions](Programs/bubbleSortUsingFunctions.md)
 ### Recursive Functions
- 27. Factorial of a Number
- 28. Fibonacci Series
+ 27. [Factorial of a Number✅](Programs/factorial.md)
+ 28. [Fibonacci Series✅](Programs/fibonacci.md)
 ### Structures
  29. Employee Details using Structures
 ### Miscellaneous
