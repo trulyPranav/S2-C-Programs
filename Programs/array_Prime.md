@@ -47,8 +47,8 @@ void main() {
 ### Step 5: Initialize a for loop from i=0 and repeat the below till i<n
 ####     5.1: flag = 0
 ####     5.2: if a[i]<=1, Display 'a[i] is not a Prime Number'
-#####         else if a[i] = 2, Display 'a[i] is a Prime Number'
-#####         else
+##### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; else if a[i] = 2, Display 'a[i] is a Prime Number'
+##### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;          else
                 initialzie a for loop from j=2 till j<=a[i]/2
                   if a[i]%j = 0, flag = 1
                 if flag = 0, Display 'a[i] is a Prime Number'
