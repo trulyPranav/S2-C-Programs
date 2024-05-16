@@ -16,7 +16,7 @@
  8. [Prime Number or Not](Programs/prime.md)
  9. [Armstrong's Number or Not](Programs/armstrong.md)
 ### Arrays
- 10. Sum and Average of an Array
+ 10. [Sum and Average of an Array](Programs/sumAvrgArray.md)
  11. [Checking if elements of an Array are Prime or Not](Programs/array_Prime.md)
  12. [Linear Search](Programs/linear_search.md)
  13. [Bubble Sort](Programs/bubbleSort.md)
