@@ -46,7 +46,7 @@
  28. [Fibonacci Series✅](Programs/fibonacci.md)
 
 ### Structures
- 29. Employee Details using Structures
+ 29. [Employee Details using Structures](Programs/employee.md)
 
 ### Miscellaneous
  30. Miscellaneous 
