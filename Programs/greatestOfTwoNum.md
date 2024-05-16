@@ -24,7 +24,8 @@ void main(){
 
 ### Step 2: Read two numbers store it in variables num1 and num2
 
-### Step 3: if num1 greater than num2, Display 'num1 is the greatest'
-#### else Display 'num2 is the greatest'
+### Step 3: If num1 greater than num2, Display 'num1 is the greatest'
 
-### Step 4: Stop
+### Step 4: Else Display 'num2 is the greatest'
+
+### Step 5: Stop
