@@ -1,5 +1,7 @@
-# S2 C-Programs List!
-## Click to Navigate
+# S2 C-Programs List
+## Click to Navigate to the Respective Program
+
+### Basics
  1. [Hello World](Programs/helloWorld.md)
  2. [Sum of Digits](Programs/sumOfDigits.md)
  3. [Product of Digits](Programs/productOfDigits.md)
@@ -9,22 +11,30 @@
  7. [Leap Year](Programs/leapYear.md)
  8. [Prime Number or Not](Programs/prime.md)
  9. [Armstrong's Number or Not](Programs/armstrong.md)
- 10. [Linear Search](Programs/linear_search.md)
- 11. [Bubble Sort](Programs/bubbleSort.md)
- 12. [Checking if elements of an Array are Prime or Not](Programs/array_Prime.md)
- 13. [Matrix Addition](Programs/matrix_Add.md)
- 14. Transpose of a Matrix
- 15. Diagonal Elements of a Matrix
- 16. Matrix Multiplication
- 17. Length of a String
- 18. Concatenating Two Strings
- 19. Comparing Two Strings
- 20. Reversing a String
- 21. String Palindrome
- 22. Checking Consonants and Vowels in a String
- 23. Linear Search using Functions
- 24. Bubble Sort using Functions
- 25. Factorial of a Number
- 26. Fibonacci Series
- 27. Employee Details using Structures
- 28. Miscellaneous 
+### Arrays
+ 10. Sum and Average of an Array
+ 11. [Checking if elements of an Array are Prime or Not](Programs/array_Prime.md)
+ 12. [Linear Search](Programs/linear_search.md)
+ 13. [Bubble Sort](Programs/bubbleSort.md)
+### 2D Arrays - Matrices
+ 14. [Matrix Addition](Programs/matrix_Add.md)
+ 15. Transpose of a Matrix
+ 16. Diagonal Elements of a Matrix
+ 17. Matrix Multiplication
+### Strings
+ 18. Length of a String
+ 19. Concatenating Two Strings
+ 20. Comparing Two Strings
+ 21. Reversing a String
+ 22. String Palindrome
+ 23. Checking Consonants and Vowels in a String
+### Functions
+ 24. Linear Search using Functions
+ 25. Bubble Sort using Functions
+### Recursive Functions
+ 26. Factorial of a Number
+ 27. Fibonacci Series
+### Structures
+ 28. Employee Details using Structures
+### Miscellaneous
+ 29. Miscellaneous 
