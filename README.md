@@ -30,7 +30,7 @@
  18. Matrix Multiplication
 
 ### Strings
- 19. Length of a String
+ 19. [Length of a String](Programs/stringLength.md)
  20. Concatenating Two Strings
  21. Comparing Two Strings
  22. [Reversing a String](Programs/string_Reverse.md)
