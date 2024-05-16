@@ -51,7 +51,7 @@ void main() {
 - Otherwise, check if a[i] equals 2:
 - If true, Display 'a[i] is a Prime Number'
 - Otherwise, proceed to step 5.2.1
-<pre>        5.2.1: Initialize a for loop from j=2 till j<=a[i]/2
+<pre>   5.2.1: Initialize a for loop from j=2 till j<=a[i]/2
                   if a[i]%j=0, flag=0 and break the loop
         5.2.2: After the loop, check flag value:
                   - If flag equals 0, Display 'a[i] is a Prime Number'
