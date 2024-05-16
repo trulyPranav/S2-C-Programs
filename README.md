@@ -31,7 +31,7 @@
 
 ### Strings
  19. [Length of a String](Programs/lengthOfString.md)
- 20. Concatenating Two Strings
+ 20. [Concatenating Two Strings](Programs/stringConcat.md)
  21. Comparing Two Strings
  22. Reversing a String
  23. String Palindrome
