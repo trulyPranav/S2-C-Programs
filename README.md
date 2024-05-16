@@ -6,20 +6,20 @@
 ## Click to Navigate to the Respective Program
 
 ### Basics
- 1. [Hello World](Programs/helloWorld.md)
- 2. [Sum of Digits](Programs/sumOfDigits.md)
- 3. [Product of Digits](Programs/productOfDigits.md)
- 4. [Greatest of Two Numbers](Programs/greatestOfTwoNum.md)
- 5. [Odd or Even](Programs/even.md)
- 6. [Greatest of Three Numbers](Programs/greatestOfThree_Num.md)
- 7. [Leap Year](Programs/leapYear.md)
- 8. [Prime Number or Not](Programs/prime.md)
- 9. [Armstrong's Number or Not](Programs/armstrong.md)
+ 1. [Hello World✅](Programs/helloWorld.md)
+ 2. [Sum of Digits✅](Programs/sumOfDigits.md)
+ 3. [Product of Digits✅](Programs/productOfDigits.md)
+ 4. [Greatest of Two Numbers✅](Programs/greatestOfTwoNum.md)
+ 5. [Odd or Even✅](Programs/even.md)
+ 6. [Greatest of Three Numbers✅](Programs/greatestOfThree_Num.md)
+ 7. [Leap Year✅](Programs/leapYear.md)
+ 8. [Prime Number or Not✅](Programs/prime.md)
+ 9. [Armstrong's Number or Not✅](Programs/armstrong.md)
 ### Arrays
- 10. [Sum and Average of an Array](Programs/sumAvrgArray.md)
- 11. [Checking if elements of an Array are Prime or Not](Programs/array_Prime.md)
- 12. [Linear Search](Programs/linear_search.md)
- 13. [Bubble Sort](Programs/bubbleSort.md)
+ 10. [Sum and Average of an Array✅](Programs/sumAvrgArray.md)
+ 11. [Checking if elements of an Array are Prime or Not✅](Programs/array_Prime.md)
+ 12. [Linear Search✅](Programs/linear_search.md)
+ 13. [Bubble Sort✅](Programs/bubbleSort.md)
 ### 2D Arrays - Matrices
  14. [Matrix Addition](Programs/matrix_Add.md)
  15. Transpose of a Matrix
