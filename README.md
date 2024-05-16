@@ -1,7 +1,7 @@
 # S2 C-Programs List
 ## Click to Navigate to the Respective Program
 
-> NOTE: Some Programs may not have algorithms. We try to provide algorithms for as much programs as we can.
+> **NOTE:** Some Programs may not have algorithms. We try to provide algorithms for as much programs as we can.
 
 ### Basics
  1. [Hello World](Programs/helloWorld.md)
