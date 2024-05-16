@@ -25,15 +25,15 @@
 ### 2D Arrays - Matrices
  14. [Matrix Addition](Programs/matrix_Add.md)
  15. [Transpose of a Matrix](Programs/transposeMatrix.md)
- 16. Diagonal Elements of a Matrix
+ 16. [Diagonal Elements of a Matrix](Programs/diagonal_Elements.md)
  17. [Sum of Diagonal Elements of a Matrix](Programs/sumOfDiagonal.md)
  18. Matrix Multiplication
 
 ### Strings
- 19. [Length of a String](Programs/lengthOfString.md)
+ 19. Length of a String
  20. [Concatenating Two Strings](Programs/stringConcat.md)
  21. Comparing Two Strings
- 22. [Reversing a String](Programs/stringReversing.md)
+ 22. Reversing a String
  23. [String Palindrome](Programs/stringPalindrome.md)
  24. Checking Consonants and Vowels in a String
 
@@ -46,7 +46,7 @@
  28. [Fibonacci Series✅](Programs/fibonacci.md)
 
 ### Structures
- 29. Employee Details using Structures
+ 29. [Employee Details using Structures✅](Programs/employee.md)
 
 ### Miscellaneous
  30. Miscellaneous 
