@@ -24,21 +24,22 @@
  14. [Matrix Addition](Programs/matrix_Add.md)
  15. Transpose of a Matrix
  16. Diagonal Elements of a Matrix
- 17. Matrix Multiplication
+ 17. Sum of Diagonal Elements of a Matrix
+ 18. Matrix Multiplication
 ### Strings
- 18. Length of a String
- 19. Concatenating Two Strings
- 20. Comparing Two Strings
- 21. Reversing a String
- 22. String Palindrome
- 23. Checking Consonants and Vowels in a String
+ 19. Length of a String
+ 20. Concatenating Two Strings
+ 21. Comparing Two Strings
+ 22. Reversing a String
+ 23. String Palindrome
+ 24. Checking Consonants and Vowels in a String
 ### Functions
- 24. Linear Search using Functions
- 25. Bubble Sort using Functions
+ 25. Linear Search using Functions
+ 26. Bubble Sort using Functions
 ### Recursive Functions
- 26. Factorial of a Number
- 27. Fibonacci Series
+ 27. Factorial of a Number
+ 28. Fibonacci Series
 ### Structures
- 28. Employee Details using Structures
+ 29. Employee Details using Structures
 ### Miscellaneous
- 29. Miscellaneous 
+ 30. Miscellaneous 
