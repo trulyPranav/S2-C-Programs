@@ -1,4 +1,4 @@
-## Code
+## Code:
 
 ```c
 #include <stdio.h>
@@ -28,12 +28,15 @@ int main() {
 }
 ```
 ## Algorithm
-## Step 1 : Start
-## Step 2 : Define the Recursive function :
+### Step 1 : Start
+
+### Step 2 : Define the Recursive function :
 - If n is 0, return 0.
 - If n is 1, return 1.
 - Otherwise, return the sum of the Fibonacci number at position n-1 and the Fibonacci number at position n-2.
-## Step 3 : Define the main() :
+
+### Step 3 : Define the main() :
 - Prompt the user to input the number of terms n.
 - For each integer i from 0 to n-1, call the recursive function to compute the Fibonacci number at position i and print the result.
-## Step 4 : Stop
+
+### Step 4 : Stop

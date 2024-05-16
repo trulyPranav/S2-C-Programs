@@ -23,13 +23,16 @@ void main(){
 ### Step 1: Define Function fact(n)
 - input integer n
 - output factorial of n
+
 ### Step 2: Cases :
 - IF n is 0 or 1
     - return the value 1
 - IF n is greater than 1:
     - return n*fact(n-1)
+
 ### Step 3: Writing main():
 - initialize an integer variable n
 - read a value for n
 - print the message "factorial of n is result" , where result is returned by fact(n)
+
 ### Step 4: Stop
