@@ -9,8 +9,8 @@ void main() {
     printf("Enter a year: ");
     scanf("%d", &year);
 
-    // A year is a leap year if it is divisible by 4 or 400
-    // but NOT a leap year if it divisible by 100
+    // A year is a leap year if it is divisible by 4 and NOT divisible by 100
+    // but a leap year if it divisible by 400
 
     // Check if the year is a leap year
     if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {
@@ -24,7 +24,7 @@ void main() {
 
 ### Step 1: Start
 ### Step 2: Initialize year
-### Step 2: Read the year from the user and store it in a variable `year`
+### Step 2: Read the year from the user and store it in year
 ### Step 3: Check if the year is divisible by 4 and not divisible by 100:
 - If true, Display "year is a leap year."
 ### Step 4: else check if the year is divisible by 400:

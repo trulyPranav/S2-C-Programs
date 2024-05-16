@@ -14,7 +14,7 @@ void main(){
 
 ### Step 1: Start
 
-### Step 2: Initialize a,b and sum.
+### Step 2: Initialize a, b and sum.
 
 ### Step 3: Display "Enter the two numbers"
 
