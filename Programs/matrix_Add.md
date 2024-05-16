@@ -16,7 +16,7 @@ void main()
         }
     }
 
-     printf("Enter 2nd matrix elements:");
+    printf("Enter 2nd matrix elements:");
     for(i=0;i<r;i++){   // Loop For Row
         for(j=0;j<c;j++){ // Loop For Column
             scanf("%d",&b[i][j]); // Reads Second Matrix
@@ -40,3 +40,5 @@ void main()
 ```
 
 ## Algorithm:
+
+> Will be updated

@@ -22,7 +22,7 @@
  13. [Bubble Sort✅](Programs/bubbleSort.md)
 ### 2D Arrays - Matrices
  14. [Matrix Addition](Programs/matrix_Add.md)
- 15. Transpose of a Matrix
+ 15. [Transpose of a Matrix](Programs/transposeMatrix.md)
  16. Diagonal Elements of a Matrix
  17. Sum of Diagonal Elements of a Matrix
  18. Matrix Multiplication
