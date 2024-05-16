@@ -26,7 +26,7 @@
  14. [Matrix Addition](Programs/matrix_Add.md)
  15. [Transpose of a Matrix](Programs/transposeMatrix.md)
  16. Diagonal Elements of a Matrix
- 17. Sum of Diagonal Elements of a Matrix
+ 17. [Sum of Diagonal Elements of a Matrix](Programs/sumOfDiagonal.md)
  18. Matrix Multiplication
 
 ### Strings
