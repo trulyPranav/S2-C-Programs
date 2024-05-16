@@ -38,7 +38,7 @@ void main(){
 ### Step 5: Initialize a for loop from i=0 till i<lim-1
 #### Step 5.1: Initialize a for loop from j=0 till j < lim-i-1 and do the following if a[j]>a[j+1]
 <pre>
-Step 5.1.1
+Step 5.1.1:
     temp = a[j];
     a[j] = a[j+1];
     a[j+1] = temp;
