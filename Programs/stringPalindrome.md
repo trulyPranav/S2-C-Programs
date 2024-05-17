@@ -1,6 +1,6 @@
 ## Code:
 ```c
-#include<stdio.h>
+#include <stdio.h>
 
 void main(){
     char a[100],b[100];
@@ -23,7 +23,7 @@ void main(){
     }
 
     // Checking Palindrome:
-    for(i=0; i<n; i++){
+    for(i=0; i<len; i++){
         if(a[i]!=b[i]){
             flag = 1;
             break;
