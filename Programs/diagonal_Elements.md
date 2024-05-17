@@ -32,4 +32,4 @@ void main(){
 }
 ```
 ## Algorithm:
-> will be updated
+> Will be updated
