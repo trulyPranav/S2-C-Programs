@@ -18,7 +18,7 @@ void main(){
     }
     revStr[i] = '\0'; //declares the last element as null value
 
-    printf('String after reversing : %s', revStr);
+    printf("String after reversing : %s", revStr);
 }
 ```
 ## Algorithm:
