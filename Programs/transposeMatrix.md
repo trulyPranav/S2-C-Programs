@@ -24,13 +24,15 @@ void main()
     }
 
     printf("Transpose is:\n");
-    for(i=0;i<r;i++){
-        for(j=0;j<c;j++){
+    for(i=0;i<c;i++){
+        for(j=0;j<r;j++){
            printf("%d\t",t[i][j]); // Prints the resultant transpose
         }
         printf("\n"); // This will helps to print the elements row-wise
     }
 }
+
+
 ```
 
 ## Algorithm:
