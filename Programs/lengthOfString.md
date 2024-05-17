@@ -4,14 +4,18 @@
 
 void main(){
     char str[1000];
-    int i;
+    int count=0,i=0;
     printf("Enter the String: ");
-    scanf("%s", &str); //accepts string from the user
+    scanf("%s", str); // Accepts string from the user
 
-    for(i = 0; str[i] != '\0'; ++i); 
-    //to find the number of elements by iteration of empty for loop and store it in variable i 
-    printf("The length of string is : %d", i);
+    while(str[i]!='\0'){
+        count++;
+        i++;
+    }
+
+    printf("Length of the String is %d", count);
 }
 ```
 
 ## Algorithm:
+> Will be updated
