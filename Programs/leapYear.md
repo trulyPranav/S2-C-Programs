@@ -23,14 +23,20 @@ void main() {
 ## Algorithm:
 
 ### Step 1: Start
+
 ### Step 2: Initialize year
+
 ### Step 2: Read the year from the user and store it in year
+
 ### Step 3: Check if the year is divisible by 4 and not divisible by 100:
 - If true, Display "year is a leap year."
+
 ### Step 4: else check if the year is divisible by 400:
 - If true, Display "year is a leap year."
+
 ### Step 5: else if neither Step 3 nor Step 4 conditions are met:
 - Display "year is not a leap year."
+
 ### Step 6: Stop
 
 

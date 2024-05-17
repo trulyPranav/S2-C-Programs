@@ -32,6 +32,7 @@ void main(){
 ### Step 5: Initialize a for loop from i=0 till i<n
 
 #### Step 5.1: sum = sum + a[i]
+
 #### Step 5.2: increment i by 1
 
 ### Step 6: avrg = sum/n

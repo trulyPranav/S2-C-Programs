@@ -26,11 +26,17 @@ void main{
 ## Algorithm:
 
 ### Step 1:Start
+
+
 ### Step 2: Read three numbers and store it in a,b,c
+
 ### Step 3: if( (a>b) && (a>c) ) 
 - Display a is the greatest number.
+
 ####   else if( (b>a) && (b>c) )
 - Display b is the greatest number.
+
 #### else
 - Display c is the greatest number.
+
 ### Step 4: Stop

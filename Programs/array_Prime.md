@@ -41,11 +41,17 @@ void main() {
 ## Algorithm:
 
 ### Step 1: Start
+
 ### Step 2: Initialize a[100], n, i, j, flag
+
 ### Step 3: Read Size of Array and store it in n
+
 ### Step 4: Read the elements of the array by initializing a for loop from i=0 till i<n
+
 ### Step 5: Initialize a for loop from i=0 and repeat the below till i<n
+
 #### Step 5.1: flag = 0
+
 #### Step 5.2: Check if a[i] is less than or equal to 1:
 - If true, Display 'a[i] is not a Prime Number'
 - Otherwise, check if a[i] equals 2:
@@ -58,4 +64,5 @@ void main() {
             - If flag equals 0, Display 'a[i] is a Prime Number'
             - Otherwise, Display 'a[i] is not a Prime Number'
 </pre>
+
 ### Step 6: Stop

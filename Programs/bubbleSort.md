@@ -31,11 +31,17 @@ void main(){
 ```
 
 ## Algorithm:
+
 ### Step 1: Start
+
 ### Step 2: Initialize a[100],i,j,lim,temp
+
 ### Step 3: Read the size of array and store it in lim
+
 ### Step 4: Input array elements using a for loop
+
 ### Step 5: Initialize a for loop from i=0 till i<lim-1
+
 #### Step 5.1: Initialize a for loop from j=0 till j < lim-i-1 and do the following if a[j]>a[j+1]
 <pre>
 Step 5.1.1:
@@ -43,6 +49,8 @@ Step 5.1.1:
     a[j] = a[j+1];
     a[j+1] = temp;
 </pre>
+
 ### Step 6: Display the Sorted Array
+
 ### Step 7: Stop
 

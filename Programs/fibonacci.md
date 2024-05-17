@@ -28,6 +28,7 @@ int main() {
 }
 ```
 ## Algorithm
+
 ### Step 1 : Start
 
 ### Step 2 : Define the Recursive function :

@@ -42,14 +42,21 @@ void main(){
 ## Algorithm
  
 ### Step 1 : Start
+
 ### Step 2 : Define the structure
 - initialize name,date of birth and salary.
+
 ### Step 3 : Initailize n number of employees to be added
+
 ### Step 4 : Read n
+
 ### Step 5 : Define the structure variable as an array say,arr[n]
-### Step 6 : IF i is less than n repeat 6.1 to 
+
+### Step 6 : IF i is less than n, repeat 6.1 to 6.3
 - 6.1 read name and store to the array (like, arr[i].name) 
 - 6.2 read dob
 - 6.3 read salary
+
 ### Step 7 : Print the details of the employees by iterating through array from i = 0 to i = n
+
 ### Step 8 : Stop
