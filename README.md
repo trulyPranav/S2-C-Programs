@@ -32,7 +32,7 @@
 ### Strings
  19. [Length of a String](Programs/lengthOfString.md)
  20. [Concatenating Two Strings](Programs/stringConcat.md)
- 21. Comparing Two Strings
+ 21. [Comparing Two Strings](Programs/stringCmp.md)
  22. [Reversing a String](Programs/stringReversing.md)
  23. [String Palindrome](Programs/stringPalindrome.md)
  24. Checking Consonants and Vowels in a String
