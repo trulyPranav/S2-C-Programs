@@ -9,7 +9,7 @@ void main()
     printf("Enter row & column size:");
     scanf("%d%d",&r,&c);
  
-    printf("Enter 1st matrix elements:");
+    printf("Enter the matrix elements:");
     for(i=0;i<r;i++){ // Loop For Row 
         for(j=0;j<c;j++){ // Loop For Column
             scanf("%d",&a[i][j]); // Reads the Matrix
@@ -24,13 +24,15 @@ void main()
     }
 
     printf("Transpose is:\n");
-    for(i=0;i<r;i++){
-        for(j=0;j<c;j++){
+    for(i=0;i<c;i++){
+        for(j=0;j<r;j++){
            printf("%d\t",t[i][j]); // Prints the resultant transpose
         }
         printf("\n"); // This will helps to print the elements row-wise
     }
 }
+
+
 ```
 
 ## Algorithm:
