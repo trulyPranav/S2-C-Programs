@@ -35,7 +35,7 @@
  21. [Comparing Two Strings](Programs/stringCmp.md)
  22. [Reversing a String](Programs/stringReversing.md)
  23. [String Palindrome](Programs/stringPalindrome.md)
- 24. Checking Consonants and Vowels in a String
+ 24. [Checking Consonants, Vowels and WhiteSpaces in a String](Programs/cwv.md)
 
 ### Functions
  25. [Linear Search using Functions](Programs/linearSearchUsingFunctions.md)
