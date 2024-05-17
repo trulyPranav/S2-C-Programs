@@ -12,7 +12,7 @@ void main(){
     printf("Enter the Second String");
     scanf("%s", s2);
 
-    for(int i=0; s[i] != '\0' || s[i] != '\0'; i++){ // i.e, the program must go on until one of the string ends
+    for(int i=0; s1[i] != '\0' || s2[i] != '\0'; i++){ // i.e, the program must go on until one of the string ends
         if(s1[i] != s2[i]){
             flag = 1;
             break; // Important
