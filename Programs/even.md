@@ -22,6 +22,8 @@ void main(){
 
 ### Step 3: if num%2==0
 - print "Number is Even"
+
 #### else
 - print "Number is Odd"
+
 ### Step 4: Stop
