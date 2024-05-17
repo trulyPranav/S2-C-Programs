@@ -46,7 +46,8 @@ void main(){
 ### Step 5: Read the element to be searched and store it in search
 
 ### Step 6: initialize a for loop from i=0 till i<n
-- if a[i] = search, flag = 1
+
+#### Step 6.1: if a[i] = search, flag = 1
 
 ### Step 7: if flag = 1, Display 'Element search found at index i'
 
