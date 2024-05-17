@@ -7,10 +7,10 @@ void main(){
     int len1=0,len2=0,i=0;
 
     printf("Enter first string : "); // Accepts first string
-    scanf("%s", &str1);
+    scanf("%s", str1);
 
     printf("Enter second string : "); // Accepts second string
-    scanf("%s", &str2);
+    scanf("%s", str2);
     
     // Calculating the number of elements in String 1 and storing it in len1
     while(str1[i]!='\0'){
@@ -36,3 +36,5 @@ void main(){
 ```
 
 ## Algorithm:
+
+> Will be updated

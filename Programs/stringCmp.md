@@ -25,3 +25,7 @@ void main(){
         printf("The strings are same");
 }
 ```
+
+## Algorithm:
+
+> Will  be updated
