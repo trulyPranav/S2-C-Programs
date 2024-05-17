@@ -3,27 +3,39 @@
 #include<stdio.h>
 
 void main(){
-    char str[100];
-    int i, len, flag = 0;
+    char a[100],b[100];
+    int flag=0,len=0,i=0;
 
-    printf("\nEnter the string: ");
-    gets(str); //reads a string
+    printf("Enter the Word:");
+    scanf("%s",a);
 
-    len = strlen(str); //finds the length of string using library function
+    // Calculating lenth of the string:
+    while(a[i] != '\0'){
+        len++;
+        i++;
+    }
 
-    for(i = 0; i < len; i++){
-        if(str[i] != str[len- i - 1]){
-          flag = 1;
-          break;//breaks the for loop if the condition is true
+    // Reversing string:
+    for(i=0; i<len; i++){
+        if(a[i] != '\0'){
+            b[len-1-i] = a[i];
         }
     }
 
-    if(flag == 0){
-        printf("\nThe string %s is Palindrome", str);
+    // Checking Palindrome:
+    for(i=0; i<n; i++){
+        if(a[i]!=b[i]){
+            flag = 1;
+            break;
+        }
     }
-    else{
-        printf("\nThe string %s is not Palindrome", str);
-    }
+
+    if(flag == 1)
+        printf("Not a Palindrome");
+    else 
+        printf("A Palindrome");
 }
 ```
 ## Algorithm:
+
+> Will be updated
