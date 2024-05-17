@@ -49,7 +49,7 @@
  29. [Employee Details using Structures✅](Programs/employee.md)
 
 ### Miscellaneous
- 30. Miscellaneous 
+ 30. [Miscellaneous](Programs/misc.md) 
 
 ## Follow Developers:
 <pre>
