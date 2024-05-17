@@ -33,7 +33,7 @@ void main(){
         printf("%d is an Armstrong Number", num);
     }
     else {
-        printf("%d is not an Armstong Number", num)
+        printf("%d is not an Armstong Number", num);
     }
 
 }
