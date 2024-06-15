@@ -1,42 +1,32 @@
 ## Code:
 ```c
 #include <stdio.h>
-#include <math.h>
 
-int main() {
-    int a[100], flag, n, i, j;
-    printf("Enter the Size of the array: ");
-    scanf("%d", &n);
-    printf("Enter the array elements: ");
-    for(i = 0; i < n; i++) {
+void main(){
+    // Initializing and reading the Array
+    int i=0,j=0,temp=0,lim,a[100];
+    printf("Enter the size of the array:");
+    scanf("%d", &lim);
+    printf("Enter the elements of the array:");
+    for(i=0;i<lim;i++){
         scanf("%d", &a[i]);
     }
-    for(i = 0; i < n; i++) { // This for loop goes each element by element
-        flag = 0;
-        if(a[i] <= 1) {
-            // Since numbers less than & equal to 1 are not prime
-            printf("%d is not a Prime Number\n", a[i]);
-        }
-        else if(a[i] == 2) {
-            printf("%d is a Prime Number\n", a[i]);
-        }
-        else {
-            for(j = 2; j <= sqrt(a[i]); j++) {
-                // This for loop checks the prime number condition for the 
-                // current a[i] element we are in, if a[i] > 2
-                if(a[i] % j == 0) {
-                    flag = 1;
-                    break;
-                }
-            }
-            if(flag == 0) {
-                printf("%d is a Prime Number\n", a[i]);
-            } else {
-                printf("%d is not a Prime Number\n", a[i]);
+    // Bubble Sorting:
+    for(i=0;i<lim-1;i++){
+        for(j=0;j<lim-1-i;j++){
+            // Swapping if a[j]>a[j+1]
+            if(a[j]>a[j+1]){
+                temp=a[j];
+                a[j]=a[j+1];
+                a[j+1]=temp;
             }
         }
     }
-    return 0;
+    printf("Sorted Array:")
+    for(i=0;i<lim;i++)
+    {
+        printf("%d ", a[i]);
+    }
 }
 
 ```
